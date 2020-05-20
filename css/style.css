@@ -11,7 +11,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Playfair Display SC", serif;
+  font-family: "Playfair Display", serif;
+  font-variant: small-caps;
 }
 
 .copyright-logo {
@@ -26,9 +27,12 @@ body {
 }
 
 .header_bg {
-  background-image: url("./img/bird-of-paradise.jpg");
+  background-image: url("../img/bird-of-paradise.jpg");
   height: 500px; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
+}
+#icon_hamburgermenu {
+  color: white;
 }
