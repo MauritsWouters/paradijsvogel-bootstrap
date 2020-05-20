@@ -2,7 +2,7 @@
 font-family: 'Average', serif; */
 
 body {
-    font-family: "Average", serif;
+  font-family: "Average", serif;
 }
 
 h1,
@@ -11,5 +11,12 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Playfair Display SC", serif;
+  font-family: "Playfair Display SC", serif;
+}
+
+.copyright-logo {
+  height: 0.75rem;
+  width: auto;
+  position: relative;
+  bottom: 0.25rem;
 }
